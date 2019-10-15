@@ -1,0 +1,4 @@
+#Thu Oct 10 13:30:46 BRT 2019
+base.0=C\:\\Users\\leandro.paranhos\\Documents\\Kotlin\\AlcoolOuGasolina\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
